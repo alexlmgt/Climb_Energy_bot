@@ -1,0 +1,3 @@
+/dispatcher/src/main/resources/application.properties
+/dispatcher/src/main/resources/log4j.properties
+/logs/dispatcher.log
